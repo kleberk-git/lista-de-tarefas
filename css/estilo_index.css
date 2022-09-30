@@ -38,8 +38,10 @@ body{
     padding: 5px;
 }
 .area-entrada-dados{
-    width: 800px;
-   
+    width: 800px;  
+}
+input{
+color: #fff;
 }
 .empresa{
     color: rgb(253, 249, 27);
