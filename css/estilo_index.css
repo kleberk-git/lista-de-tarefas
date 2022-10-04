@@ -127,4 +127,7 @@ text-align: center;
 .area-titulo{
         font-size: 15px;
     }
+    input{
+        color: #fff;
+    }
 }
